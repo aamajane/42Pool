@@ -1,5 +1,0 @@
-Credentials cache: API:4385
-        Principal: aamajane@1337.MA
-
-  Issued                Expires               Principal
-Aug  2 15:02:43 2021  Aug  9 15:02:37 2021  krbtgt/1337.MA@1337.MA
